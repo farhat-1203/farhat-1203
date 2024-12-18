@@ -26,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhat-1203&show_icons=true&locale=en&theme=dark" alt="farhat-1203" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhat-1203&theme=dark" alt="farhat-1203" /></p>
+
+<!-- Center the Snake GIF -->
+<p align="center">
+  <img src="https://github.com/farhat-1203/farhat-1203/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
