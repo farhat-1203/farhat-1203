@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, Welcome to my GitHub!</h1>
-<h3 align="center">I'm Farhat Momin 👨‍💻, Diving Deep into Data and AI 🌐</h3>
+<h3 align="center">I'm Farhat Momin 👩🏻‍💻, Diving Deep into Data and AI 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhat-1203&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="farhat-1203" /> </p>
 
