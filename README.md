@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Transforming+Ideas+into+Code;Building+Smart+Solutions+with+AI+and+Data&center=true&width=500&height=25">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Transforming+Ideas+into+Code;Building+Smart+Solutions+with+AI&center=true&width=500&height=25">
 </p>
 
 
