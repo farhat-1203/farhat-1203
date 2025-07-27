@@ -25,7 +25,7 @@
 # 💻 Tech Stack:
 
 
-### 🚀 Languages  
+## Languages  
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-## ⚙️ Frameworks & Libraries:
+## Frameworks & Libraries:
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🧠 AI / ML:
+## AI / ML:
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
@@ -65,7 +65,7 @@
 
 ---
 
-## 🗄️ Databases:
+## Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-## ☁️ Cloud & Dev Tools:
+## Cloud & Dev Tools:
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
@@ -83,7 +83,7 @@
 
 ---
 
-### 🚀 Deployment Tools:
+## Deployment Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
