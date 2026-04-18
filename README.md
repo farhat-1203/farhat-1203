@@ -25,73 +25,60 @@
 - Passionate about building **high-impact, intelligent automation systems**
 
 ---
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
-
-
-## Languages  
-
+## Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-
 ---
 
-## Frameworks & Libraries:
-
+## Frameworks & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=plastic)
 
 ---
 
-## AI / ML:
-
+## AI / ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230076B8.svg?style=plastic&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230E4D92.svg?style=plastic&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=plastic&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=green)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=plastic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Model-%23A020F0.svg?style=plastic&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-%232c2c2c.svg?style=plastic&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=green)
+
+---
+
+## LLMs & AI Systems
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=plastic)
+![RAG](https://img.shields.io/badge/RAG-Architecture-purple?style=plastic)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23444444.svg?style=plastic&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=plastic&logo=huggingface&logoColor=black)
 
 ---
 
-## Databases:
-
+## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
 ---
 
-## Cloud & Dev Tools:
-
+## Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+
+---
+
+## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
-
----
-
-## Deployment Tools:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=plastic&logo=netlify&logoColor=white)
 
 
 ---
