@@ -18,11 +18,11 @@
 
 ## About Me
 
-- 🤖 AI Developer specializing in **LLM-based applications, RAG architectures, and prompt-engineered systems**
-- 🧠 Proficient in **data preprocessing, model development, and scalable ML pipelines**
-- ⚙️ Strong backend development skills with **Python, FastAPI, and API design**
-- ☁️ Hands-on experience with **AWS, Docker, and production-ready AI deployment**
-- 🚀 Passionate about building **high-impact, intelligent automation systems**
+- AI Developer specializing in **LLM-based applications, RAG architectures, and prompt-engineered systems**
+- Proficient in **data preprocessing, model development, and scalable ML pipelines**
+- Strong backend development skills with **Python, FastAPI, and API design**
+- Hands-on experience with **AWS, Docker, and production-ready AI deployment**
+- Passionate about building **high-impact, intelligent automation systems**
 
 ---
 
