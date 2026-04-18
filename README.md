@@ -12,13 +12,17 @@
 
 
 <h1 align="center">Hello World, Welcome to my GitHub!</h1>
-<h3 align="center">I'm Farhat Momin 👩🏻‍💻, Diving Deep into Data and AI 🌐</h3>
-
+<h3 align="center">I'm Farhat Momin 👩🏻‍💻</h3>
+<h3 align="center">AI Developer | Machine Learning Engineer | RAG & LLM Enthusiast</h3>
 ---
 
-- 🌱 I’m currently learning **AI, Machine Learning, and the science of turning data into impactful insights**
-- 💬 Ask me about **Python, Data Analysis, and AI/ML basics**
-- 📫 Reach me at: **farhatmomin1225@gmail.com**
+## About Me
+
+- 🤖 AI Developer specializing in **LLM-based applications, RAG architectures, and prompt-engineered systems**
+- 🧠 Proficient in **data preprocessing, model development, and scalable ML pipelines**
+- ⚙️ Strong backend development skills with **Python, FastAPI, and API design**
+- ☁️ Hands-on experience with **AWS, Docker, and production-ready AI deployment**
+- 🚀 Passionate about building **high-impact, intelligent automation systems**
 
 ---
 
