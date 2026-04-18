@@ -106,12 +106,18 @@
 
 
 
+<h3 align="center">Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhatmomin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhatmomin" height="30" width="40" /></a>
-<a href="https://kaggle.com/fm1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fm1203" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/farhatmomin_1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhatmomin_1203" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/farhatmomin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaggle.com/fm1203" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" />
+  </a>
+  <a href="https://leetcode.com/farhatmomin_1203" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
