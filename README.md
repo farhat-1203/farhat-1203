@@ -1,9 +1,17 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+</p>
+<br>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
+<br>
 <p align="left">
   <a href="https://github.com/farhat-1203">
     <img src="https://img.shields.io/github/followers/farhat-1203?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=farhat-1203&color=blue" alt="Profile Views"/>
-</p>
+</p>>
 
 
 <p align="center">
@@ -111,6 +119,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 ---
 
 
