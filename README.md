@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/farhat-1203?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=farhat-1203&color=blue" alt="Profile Views"/>
-</p>>
+</p>
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 <h1 align="center">Hello World, Welcome to my GitHub!</h1>
 <h3 align="center">I'm Farhat Momin 👩🏻‍💻</h3>
 <h3 align="center">AI Developer | Machine Learning Engineer | RAG & LLM Enthusiast</h3>
----
+
 
 ## About Me
 
